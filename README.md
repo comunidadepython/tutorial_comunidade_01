@@ -1,2 +1,15 @@
-# tutorial_comunidade_01
-Exercícios para praticar do nosso primeiro tutorial
+# Faça você mesmo - Exercícios
+
+1 - Escreva na sessão do terminal a frase: Meu primeiro exercício em Python 
+
+2 - Escreva em um arquivo três frases pulando as devidas linhas e execute dentro do terminal
+
+    a) Olá, meu nome é ______ e eu tenho ___ anos. 
+    
+    b) Moro na cidade de _______ e nasci em ________.
+    
+    c) Quero aprender Python para ser um _________.
+
+
+## Caso você tenha dúvidas, fale conosco em contato@comunidadepython.com.br
+## Acesse www.comunidadepython.com.br
