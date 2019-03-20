@@ -1,0 +1,30 @@
+Exercícios - Aula 02
+
+Atenção: Crie um "arquivo.py" para cada exercício deste naquela pasta que criamos. 
+         Lembre-se de testar executando-o lá no terminal.
+
+1 - Armazene o nome do prato que você mais gosta em uma variável.
+2 - Adicione um dia qualquer da semana em uma variável.
+3 - Adicione um mês qualquer em uma variável.
+4 - Adicione um ano em uma variável.
+5 - Usando estas variáveis, exiba a mensagem a seguir: Na  ______, da SEMANA 3 do mes de _____ do ano de ____ 
+                                                       as 12 horas eu vou comer ______ que eh meu prato PREFERIDO.
+
+6 - Agora, faça exibir a mensagem novamente, mas apenas com o DIA DA SEMANA maiúsculo e o restante todo em minusculo.
+7 - Agora, faça exibir a mensagem novamente com todas minusculas.
+8 - Agora com todas minusculas e somente as primeiras letras maiusculas.
+
+9 - Tente chegar ao resultado da seguinte expressão : 2 * 10 // 5 + 53 - 12 % 4
+10 - Tente chegar ao resultado da seguinte expressão: 2 * ((23 % 9) - 1 + 17 // 4)
+11 - Tente chegar ao resultado da seguinte expressão: 2 * 10 + 50 // 10 + 4 - (5 % 4)
+12 - Tente chegar ao resultado da seguinte expressão: 3 ** 3 // (12 - 8 + 6 * 5)
+
+13 - Qual a diferença dos resultados e porquê?
+      2 * 10 + 50 // 10 + 4 - (5 % 4) 
+      2 * 10 + 50 / 10 + 4 - (5 % 4)
+      
+
+
+Caso você tenha dúvidas, fale conosco em contato@comunidadepython.com.br
+
+Acesse www.comunidadepython.com.br
