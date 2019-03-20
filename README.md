@@ -1,4 +1,4 @@
-# Faça você mesmo - Exercícios
+# Exercícios
 
 Aqui adicionarei os exercícios das aulas conforme você for avançando. Treine. Pratique. Invente.
 
