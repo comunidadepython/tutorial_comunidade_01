@@ -1,14 +1,8 @@
 # Faça você mesmo - Exercícios
 
-1 - Escreva na sessão do terminal a frase: Meu primeiro exercício em Python 
+Aqui adicionarei os exercícios das aulas conforme você for avançando. Treine. Pratique. Invente.
 
-2 - Escreva em um arquivo três frases pulando as devidas linhas e execute dentro do terminal
-
-    a) Olá, meu nome é ______ e eu tenho ___ anos. 
-    
-    b) Moro na cidade de _______ e nasci em ________.
-    
-    c) Quero aprender Python para ser um _________.
+## Não desista
 
 
 ## Caso você tenha dúvidas, fale conosco em contato@comunidadepython.com.br
